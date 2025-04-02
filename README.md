@@ -179,3 +179,5 @@ bash-5.2# tail -f /var/ossec/logs/alerts/alerts.log
 ```
 
 Ora dovresti poter visualizzare i log anche tramite il browser.
+
+![Wazuh Alerts](https://github.com/corsisechero/SiemWazuhWithContainerLab/blob/main/wazuhLog.PNG)
